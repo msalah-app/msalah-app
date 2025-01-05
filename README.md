@@ -10,7 +10,7 @@
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "40px" height = "40px">  About me
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px height ="200px"/>
 
-- 🌱 Junior Flutter Developer
+- 🌱 Flutter Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/msalah-app?tab=repositories](https://github.com/msalah-app?tab=repositories)
 
